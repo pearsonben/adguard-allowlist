@@ -1,0 +1,3 @@
+portainer.io
+githubusercontent.com
+docker.com
